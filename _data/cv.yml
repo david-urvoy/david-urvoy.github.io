@@ -18,7 +18,7 @@ career:
    company: Tessi Documents Services
    location: Saint-Étienne
    dates: juillet 2014 – juillet 2015 | 1 an 1 mois
-   summary: Projet Espace Unique: Refonte d’une application web d’EDI (échange de données informatisées) bancaire permettant la gestion administrative (comptes, abonnés, vecteurs de communication, autorisations, porteurs, certificats) et la gestion des transactions bancaires (virements SEPA, internationaux, mandats, prélèvements, saisies).
+   summary: Projet Espace Unique - Refonte d’une application web d’EDI (échange de données informatisées) bancaire permettant la gestion administrative (comptes, abonnés, vecteurs de communication, autorisations, porteurs, certificats) et la gestion des transactions bancaires (virements SEPA, internationaux, mandats, prélèvements, saisies).
    techs:
     - tech: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
     - tech: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
@@ -61,7 +61,7 @@ technicalSkills:
 
 sideProjects:
   - name: Docker presentation
-    description: Projet de démonstration des bases de docker: containerisation d'une app (React/Kotlin/MySQL) et exploitation de 3 instances.
+    description: Projet de démonstration des bases de docker - containerisation d'une app (React/Kotlin/MySQL) et exploitation de 3 instances.
     link: https://github.com/DavidUrvoy/DockerSlides
     type: github
     langs: Python/Bash/Docker/Kotlin/React/Spring
