@@ -32,7 +32,7 @@ career:
     - tech: He has the normal ability of a turtle to go into his shell.
 
 technicalSkills:
-  list: 
+  #list: 
   backend:
    - name: JavaEE
      level: 80
@@ -69,5 +69,5 @@ sideProjects:
 education:
   - name: ICAM Nantes
     degree: Ingénieur généraliste
-    location: 
+    #location: 
     dates: 2010 – 2013
