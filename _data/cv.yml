@@ -19,6 +19,7 @@ career:
    location: Ecully
    dates: Janvier 2019 – Septembre 2019 | 9 mois
    summary: Projet ISI - Développement d'une application en micro-services permettant la déclaration et le suivi de sinistres (sociétaires), leur prise en charge par les gestionnaires ainsi que le paramétrage manager.
+   content: "Développement du module de paramétrage et de supervision des gestionnaires d'assurance (interface de pilotage pour les managers et de synthèse pour les gestionnaires d'assurance). Tâches effectuées : Structuration de l'application en micro-services, implémentation de la gestion des habilitations (sécurité), développement de composants Angular génériques."
    techs:
     - tech: Java 8 / Spring Boot (Data, Web, Security) / microservices / REST API
     - tech: Angular 7 / TypeScript / ECMAScript.
@@ -29,6 +30,7 @@ career:
    location: Lyon
    dates: Juin 2018 – Décembre 2018 | 7 mois
    summary: Projet ISup - supervision de compteurs intelligents destinés aux professionnels.
+   content: "Le projet consistait à développer une application permettant la supervision de l'installation et du fonctionnement de compteurs (relevés à distance, télédistribution de softwares sur les compteurs, détection d'anomalies, etc.) et à exploiter cette application sur l'environnement de production. Participation au développement de cette application hautement asynchrone et distribuée (Kafka, ElasticSearch) : afin de gérer le volume de données conséquent (Cassandra) que représentaient les communications du SI avec les compteurs (plusieurs messages par heure par compteur, pour plusieurs centaines de milliers de compteurs)."
    techs:
     - tech: Java 8 / Spring Boot / microservices
     - tech: Apache Kafka / Cassandra / ElasticSearch / Spark (Scala).
@@ -41,6 +43,7 @@ career:
    location: Lyon
    dates: Août 2017 – Juin 2018 | 11 mois
    summary: Projet Digital Banking - Norme PSD2 - XS2A.
+   content: "Digital Banking Platform : Plateforme applicative de micro-services divers (comptes, paiements, authentification, etc.) conçue pour se connecter sur un SI bancaire, afin d'en étendre les fonctionnalités et de les exposer via des APIs web standardisées et conformes aux nouvelles normes européennes. Implémentation de la nouvelle norme bancaire PSD2 (début 2018), imposant la standardisation des APIs des banques (via différents standards européens). Cette standardisation des APIs permet l'ouverture à la concurrence du développement des applications bancaires. Implémentation de la gestion des Applications Tierces."
    techs:
     - tech: Java 8 / Spring Boot (REST, Security, Data, Batch) Cloud (Stack Netflix - Zuul, Eureka, Hystrix) / Maven
     - tech: Docker / Stack ELK (ElasticSearch, Logstash, Kibana) / Git
@@ -51,6 +54,7 @@ career:
    location: Lyon
    dates: Mars 2017 – Juin 2017 | 4 mois
    summary: Projet Agence France Locale - Application web permettant la gestion du financement des collectivités locales.
+   content: "Développement de fonctionnalités de CRM."
    techs:
     - tech: Java 8 / Spring Boot (REST, Security, Data) / Maven
     - tech: ECMAScript / EmberJS
@@ -61,6 +65,7 @@ career:
    location: Lyon
    dates: Avril 2016 – Mars 2017 | 1 an
    summary: Projet de développement d'une application de géolocalisation au forfait pour le compte de GrDF.
+   content: "Développement d'une application permettant la planification et le suivi des tournées de coupure et de remise en gaz. Basée sur un fond de carte Google Maps, et s'appuyant sur ses APIs, elle permettait de définir des zones de coupure de gaz et de gérer leur statut. J'ai développé la fonctionnalité de traçage, découpage et fusion des zones, ainsi que les web services REST de l'application."
    techs:
     - tech: Java 8 / Spring Boot (Web Services REST)
     - tech: ECMAScript, Google maps API
@@ -71,6 +76,7 @@ career:
    location: Saint-Étienne
    dates: Septembre 2015 – Mars 2016 | 7 mois
    summary: Projet Services Mutualisés - Création d’un module d’une application web permettant la signature de remises bancaires via mobile (gestion des porteurs, signature et suppression de remises, consultation d’historiques).
+   content: "Développement des Web Services back-end, intégré à une équipe (~5 personnes). Développement conduit par les tests unitaires (implémentation des tests unitaires), analyse de spécifications fonctionnelles, conception technique, rédaction d’analyses techniques et développement Java."
    techs:
     - tech: Java 7 / Spring / Hibernate / Apache CXF (Web Services REST) / Maven / JUnit / Mockito
     - tech: Tomcat 7 / DB2 / Hudson / SVN
@@ -81,6 +87,7 @@ career:
    location: Saint-Étienne
    dates: Juillet 2014 – Juillet 2015 | 1 an 1 mois
    summary: Projet Espace Unique - Refonte d’une application web d’EDI (échange de données informatisées) bancaire permettant la gestion administrative (comptes, abonnés, vecteurs de communication, autorisations, porteurs, certificats) et la gestion des transactions bancaires (virements SEPA, internationaux, mandats, prélèvements, saisies).
+   content: "Développement en équipe (~ 10 développeurs) du back-end de l’application en Web Services avec un fonctionnement Agile Scrum (itérations de 2 semaines). Développement conduit par les tests unitaires (implémentation des tests unitaires), analyse de spécifications fonctionnelles, analyse de code existant, conception technique, rédaction d’analyses techniques et développement Java."
    techs:
     - tech: Java 6 / Spring / Hibernate / Apache CXF (Web Services SOAP) / Maven / JUnit / Mockito
     - tech: Tomcat 7 / DB2 / Hudson / SVN
