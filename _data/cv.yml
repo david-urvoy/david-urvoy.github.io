@@ -14,22 +14,78 @@ person:
   linkedin: /david-urvoy-198611b1
 
 career:
- - position: Foot Clan Antagonist
+ - position: Ingénieur d'études - Développeur (prestataire)
+   company: Groupama G2S
+   location: Ecully
+   dates: Janvier 2019 – Septembre 2019 | 9 mois
+   summary: Projet ISI - Développement d'une application en micro-services permettant la déclaration et le suivi de sinistres (sociétaires), leur prise en charge par les gestionnaires ainsi que le paramétrage manager.
+   techs:
+    - tech: Java 8 / Spring Boot (Data, Web, Security) / microservices / REST API
+    - tech: Angular 7 / TypeScript / ECMAScript.
+   projs:
+    - proj: ~6 développeurs. Méthode Agile / Kanban.
+ - position: Ingénieur d'études - Développeur (prestataire)
+   company: Enedis
+   location: Lyon
+   dates: Juin 2018 – Décembre 2018 | 7 mois
+   summary: Projet ISup - supervision de compteurs intelligents destinés aux professionnels.
+   techs:
+    - tech: Java 8 / Spring Boot / microservices
+    - tech: Apache Kafka / Cassandra / ElasticSearch / Spark (Scala).
+    - tech: Docker / Stack ELK (ElasticSearch, Logstash, Kibana) / Git
+    - tech: AngularJS
+   projs:
+    - proj: ~6 développeurs. Méthode Agile / Kanban.
+ - position: Ingénieur d'études - Développeur
+   company: Worldline Global
+   location: Lyon
+   dates: Août 2017 – Juin 2018 | 11 mois
+   summary: Projet Digital Banking - Norme PSD2 - XS2A.
+   techs:
+    - tech: Java 8 / Spring Boot (REST, Security, Data, Batch) Cloud (Stack Netflix - Zuul, Eureka, Hystrix) / Maven
+    - tech: Docker / Stack ELK (ElasticSearch, Logstash, Kibana) / Git
+   projs:
+    - proj: ~12 développeurs. Méthode Agile / SCRUM (daily, grooming, sprint planning, retrospectives)
+ - position: Ingénieur d'études - Développeur
+   company: Worldline Global
+   location: Lyon
+   dates: Mars 2017 – Juin 2017 | 4 mois
+   summary: Projet Agence France Locale - Application web permettant la gestion du financement des collectivités locales.
+   techs:
+    - tech: Java 8 / Spring Boot (REST, Security, Data) / Maven
+    - tech: ECMAScript / EmberJS
+   projs:
+    - proj: Equipe de 4 développeurs
+ - position: Développeur fullstack
+   company: Sword Group
+   location: Lyon
+   dates: Avril 2016 – Mars 2017 | 1 an
+   summary: Projet de développement d'une application de géolocalisation au forfait pour le compte de GrDF.
+   techs:
+    - tech: Java 8 / Spring Boot (Web Services REST)
+    - tech: ECMAScript, Google maps API
+   projs:
+    - proj: Equipe de 4 développeurs
+ - position: Ingénieur d'études - Développeur (prestataire)
    company: Tessi Documents Services
    location: Saint-Étienne
-   dates: juillet 2014 – juillet 2015 | 1 an 1 mois
+   dates: Septembre 2015 – Mars 2016 | 7 mois
+   summary: Projet Services Mutualisés - Création d’un module d’une application web permettant la signature de remises bancaires via mobile (gestion des porteurs, signature et suppression de remises, consultation d’historiques).
+   techs:
+    - tech: Java 7 / Spring / Hibernate / Apache CXF (Web Services REST) / Maven / JUnit / Mockito
+    - tech: Tomcat 7 / DB2 / Hudson / SVN
+   projs:
+    - proj: Cycle en V itératif
+ - position: Ingénieur d'études - Développeur (prestataire)
+   company: Tessi Documents Services
+   location: Saint-Étienne
+   dates: Juillet 2014 – Juillet 2015 | 1 an 1 mois
    summary: Projet Espace Unique - Refonte d’une application web d’EDI (échange de données informatisées) bancaire permettant la gestion administrative (comptes, abonnés, vecteurs de communication, autorisations, porteurs, certificats) et la gestion des transactions bancaires (virements SEPA, internationaux, mandats, prélèvements, saisies).
    techs:
-    - tech: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - tech: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
- - position: Ingénieur d'études - Développeur (prestataire)
-   company: TMNT
-   location: New York, USA
-   dates: October 2012 – September 2014
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
-   techs:
-    - tech: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - tech: He has the normal ability of a turtle to go into his shell.
+    - tech: Java 6 / Spring / Hibernate / Apache CXF (Web Services SOAP) / Maven / JUnit / Mockito
+    - tech: Tomcat 7 / DB2 / Hudson / SVN
+   projs:
+    - proj: Méthode Agile / SCRUM
 
 technicalSkills:
   #list: 
