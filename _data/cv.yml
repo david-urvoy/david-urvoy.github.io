@@ -3,17 +3,15 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: David Urvoy
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  profession: Développeur fullstack & devops
+  location: Lyon
+  email: daviid.u@gmail.com
+  site: https://DavidUrvoy.github.io
+  phone: +33782450298
+  github: /DavidUrvoy
+  linkedin: /david-urvoy-198611b1
 
 career:
  - position: Foot Clan Antagonist
@@ -71,8 +69,7 @@ sideProjects:
     langs: AngularJS/HTML/CSS/Bootstrap
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name: ICAM
+    degree: Ingénieur généraliste
+    location: Nantes
+    dates: 2010 – 2013
