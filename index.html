@@ -118,15 +118,28 @@
             <div class="col-xs-12">
 
            {% if item.techs.size > 0 %}
-            <b>Stack technique:</b>
+            <b>Stack technique :</b>
            {% endif %}
             <ul>
             {% for itemm in item.techs %}
               <li>{{itemm.tech}}</li>
             {% endfor %}
             </ul>
+            </div>
           </div>
-           </div>
+          <div class="row">
+            <div class="col-xs-12">
+
+           {% if item.projs.size > 0 %}
+            <b>Environnement projet :</b>
+           {% endif %}
+            <ul>
+            {% for itemm in item.projs %}
+              <li>{{itemm.proj}}</li>
+            {% endfor %}
+            </ul>
+            </div>
+          </div>
         </div>
         {% endfor %}
       </div>
