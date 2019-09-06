@@ -117,12 +117,12 @@
           <div class="row">
             <div class="col-xs-12">
 
-           {% if item.accomplishments.size > 0 %}
-            <b>Selected accomplishments:</b>
+           {% if item.techs.size > 0 %}
+            <b>Stack technique:</b>
            {% endif %}
             <ul>
-            {% for itemm in item.accomplishments %}
-              <li>{{itemm.accomplishment}}</li>
+            {% for itemm in item.techs %}
+              <li>{{itemm.tech}}</li>
             {% endfor %}
             </ul>
           </div>
