@@ -115,6 +115,10 @@ technicalSkills:
   other:
    - name: Docker
      level: 75
+   - name: Haskell
+     level: 60
+   - name: Rust
+     level: 20
    - name: Python
      level: 50
    - name: Git
