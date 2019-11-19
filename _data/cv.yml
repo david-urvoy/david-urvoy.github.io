@@ -97,6 +97,8 @@ career:
 technicalSkills:
   #list: 
   backend:
+   - name: Node.js
+     level: 45
    - name: JavaEE
      level: 80
    - name: Kotlin
