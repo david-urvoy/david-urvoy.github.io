@@ -20,7 +20,7 @@ career:
    dates: Novembre 2019 – Aujourd'hui
    summary: Refonte d'une application et développement de micro-services.
    techs:
-    - tech: Java 8 / Spring Boot (Data, Web, Security) / microservices / REST API.
+    - tech: Kotlin / Java 8 / Spring Boot (Data, Web, Security) / microservices / REST API.
     - tech: ReactJs / Redux.
     - tech: Docker / Kubernetes.
    projs:
