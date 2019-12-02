@@ -14,6 +14,17 @@ person:
   linkedin: /david-urvoy-198611b1
 
 career:
+ - position: Développeur (auto entrepreneur)
+   company: Descours & Cabaud
+   location: Lyon
+   dates: Novembre 2019 – Aujourd'hui
+   summary: Refonte d'une application et développement de micro-services.
+   techs:
+    - tech: Java 8 / Spring Boot (Data, Web, Security) / microservices / REST API.
+    - tech: ReactJs / Redux.
+    - tech: Docker / Kubernetes.
+   projs:
+    - proj: ~20 développeurs. Méthode Agile / SCRUM.
  - position: Ingénieur d'études - Développeur (prestataire)
    company: Groupama G2S
    location: Ecully
