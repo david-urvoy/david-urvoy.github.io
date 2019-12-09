@@ -1,4 +1,4 @@
-url: http://streetturtle.github.io
+url: http://david-urvoy.github.io
 projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
@@ -7,9 +7,8 @@ person:
   depiction: me.jpeg
   profession: Développeur fullstack & devops
   location: Lyon
-  email: daviid.u@gmail.com
+  email: david.urvoy.pro@gmail.com
   site: davidurvoy.github.io
-  phone: +33782450298
   github: /DavidUrvoy
   linkedin: /david-urvoy-198611b1
 
