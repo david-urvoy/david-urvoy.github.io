@@ -13,15 +13,20 @@ person:
   linkedin: /david-urvoy-198611b1
 
 career:
- - position: Développeur (auto entrepreneur)
+ - position: Architecte logiciel (freelance)
    company: Descours & Cabaud
    location: Lyon
    dates: Novembre 2019 – Aujourd'hui
-   summary: Refonte d'une application et développement de micro-services.
+   summary: Conception d'une architecture microservices.
+   content: "
+   Title
+   
+   Content
+   "
    techs:
     - tech: Kotlin / Java 8 / Spring Boot (Data, Web, Security)
     - tech: microservices / REST API / RabbitMQ.
-    - tech: ReactJs / Redux.
+    - tech: DDD (architecture hexagonale) / BDD (acceptance testing - cucumber) / TDD
     - tech: Docker / Kubernetes.
  - position: Ingénieur d'études - Développeur (prestataire)
    company: Groupama G2S
@@ -107,29 +112,27 @@ technicalSkills:
   #list: 
   backend:
    - name: Node.js
-     level: 45
+     level: 60
    - name: JavaEE
      level: 80
    - name: Kotlin
-     level: 60
+     level: 75
    - name: Spring
      level: 70
   frontend:
    - name: React
-     level: 80
+     level: 70
    - name: EcmaScript
      level: 80
    - name: TypeScript
      level: 80
-   - name: Angular 7
-     level: 60
   other:
    - name: Docker
      level: 75
    - name: Rust
-     level: 20
+     level: 30
    - name: Python
-     level: 50
+     level: 40
    - name: Git
      level: 90
    - name: Google Compute Engine
