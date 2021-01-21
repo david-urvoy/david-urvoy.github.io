@@ -135,7 +135,7 @@ technicalSkills:
      level: 40
 
 sideProjects:
-  - name: Site web associatif
+  - name: brain-academy.fr
     description: Mise en place d'un site web (+wiki) pour un groupe associatif.
     link: https://brain-academy.fr
     type: website
