@@ -135,11 +135,16 @@ technicalSkills:
      level: 40
 
 sideProjects:
+  - name: Site web associatif
+    description: Mise en place d'un site web (+wiki) pour un groupe associatif.
+    link: https://brain-academy.fr
+    type: website
+    langs: Typescript | React | JSX | MDX | Docusaurus 2
   - name: Docker presentation
     description: Projet de démonstration des bases de docker - containerisation d'une app (React/Kotlin/MySQL) et exploitation de 3 instances.
     link: https://github.com/DavidUrvoy/DockerSlides
     type: github
-    langs: Python/Bash/Docker/Kotlin/React/Spring
+    langs: Python | Bash | Docker | Kotlin | React | Spring
 
 education:
   - name: ICAM Nantes
