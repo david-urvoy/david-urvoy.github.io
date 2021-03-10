@@ -137,7 +137,7 @@ technicalSkills:
 sideProjects:
   - name: brain-academy.fr
     description: Mise en place d'un site web (+wiki) pour un groupe associatif.
-    link: https://brain-academy.fr
+    link: https://brain-academy.fr/wiki/
     type: website
     langs: Typescript | React | JSX | MDX | Docusaurus 2
   - name: Docker presentation
