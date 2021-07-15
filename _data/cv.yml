@@ -117,14 +117,14 @@ technicalSkills:
      level: 70
   frontend:
    - name: React
-     level: 70
+     level: 85
    - name: EcmaScript
-     level: 80
+     level: 85
    - name: TypeScript
-     level: 80
+     level: 90
   other:
    - name: Docker
-     level: 75
+     level: 85
    - name: Rust
      level: 30
    - name: Python
