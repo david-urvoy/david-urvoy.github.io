@@ -136,9 +136,14 @@ technicalSkills:
 
 sideProjects:
   - name: brain-academy.fr
-    description: Mise en place d'un site web (+wiki) pour un groupe associatif.
-    link: https://brain-academy.fr | https://brain-academy.fr/wiki/botc
+    description: Mise en place d'un site web pour un groupe associatif.
+    link: https://brain-academy.fr
     type: website
+    langs: Typescript | React | JSX
+  - name: brain-academy.fr
+    description: Construction d'un wiki pour un groupe associatif.
+    link: https://brain-academy.fr/wiki/botc
+    type: wiki
     langs: Typescript | React | JSX | MDX | Docusaurus 2
   - name: Docker presentation
     description: Projet de démonstration des bases de docker - containerisation d'une app (React/Kotlin/MySQL) et exploitation de 3 instances.
