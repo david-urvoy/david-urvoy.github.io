@@ -135,7 +135,7 @@ technicalSkills:
      level: 40
 
 sideProjects:
-  - name: [WIP] Site web associatif
+  - name: (WIP) Site web associatif
     description: Mise en place d'un site web pour un groupe associatif.
     link: https://brain-academy.fr
     type: website
