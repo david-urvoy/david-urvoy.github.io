@@ -14,11 +14,22 @@ person:
 
 career:
  - position: Développeur Web
+   company: ContentSide
+   location: Lyon
+   dates: Septembre 2021 - Juin 2022
+   summary: Développement d'un produit d'analyse sémantique en microservices.
+   content: "Développement de microservices pour une plateforme d'analyse sémantique à destination d'éditeurs et d'acteurs de l'e-commerce. Développement d'un socle technique pour les microservice existants, d'un module de parsing, débalisage et balisage HTML pour permettre l'analyse sémantique de pages web. Projet Kubernetes hébergé dans le cloud GCP. Maintenance évolutive d'une application éditoriale dans le domaine juridique. Frontend utilisant React/Redux, ainsi qu'une librairie propriétaire. Services REST en Kotlin et Spring"
+   techs:
+    - tech: Kotlin
+    - tech: Spring Boot | Spring web
+    - tech: Docker | Google Cloud Platform | Kubernetes
+    - tech: React | Redux
+ - position: Développeur Web
    company: Freelance - Association
    location: Lyon
    dates: Janvier 2021 - Juin 2021
    summary: Développement d'un website & divers outils informatiques (wiki, services) pour une association.
-   content: "Développement et hébergement de divers outils web sur GCP pour une association. Implémentation utilisant React, NextJS et Docusaurus 2 (Framework basé sur React + markdown). Gestion du nom de domaine, mise en place de déploiements automatisés (Github Actions) et hébergement sur le cloud GCP."
+   content: "Développement et hébergement de divers outils web sur GCP pour une association. Développement d'un site web en React, NextJS et Docusaurus 2 (Framework basé sur React + markdown). Gestion du nom de domaine, mise en place de déploiements automatisés (Github Actions) et hébergement sur le cloud GCP."
    techs:
     - tech: Typescript | Javascript
     - tech: React | NextJS | Docusaurus 2.
@@ -40,7 +51,7 @@ career:
    location: Ecully
    dates: Janvier 2019 – Septembre 2019 | 9 mois
    summary: Projet ISI - Développement d'une application en micro-services permettant la déclaration et le suivi de sinistres (sociétaires), leur prise en charge par les gestionnaires ainsi que le paramétrage manager.
-   content: "Développement du module de paramétrage et de supervision des gestionnaires d'assurance (interface de pilotage pour les managers et de synthèse pour les gestionnaires d'assurance). Tâches effectuées : Structuration de l'application en micro-services, implémentation de la gestion des habilitations (sécurité), développement de composants Angular génériques."
+   content: "Développement du module de paramétrage et de supervision des gestionnaires d'assurance (interface de pilotage pour les managers et de synthèse pour les gestionnaires d'assurance). Tâches effectuées : Structuration de l'application en micro-services, implémentation de la gestion des habilitations (sécurité), développement d'une librairie de composants Angular, ainsi que développement des interfaces utilisateur."
    techs:
     - tech: Java 8 | Spring Boot (Data, Web, Security) | microservices | REST API
     - tech: Angular 7 | TypeScript | Javascript.
@@ -51,7 +62,7 @@ career:
    location: Lyon
    dates: Juin 2018 – Décembre 2018 | 7 mois
    summary: Projet ISup - supervision de compteurs intelligents destinés aux professionnels.
-   content: "Le projet consistait à développer une application permettant la supervision de l'installation et du fonctionnement de compteurs (relevés à distance, télédistribution de softwares sur les compteurs, détection d'anomalies, etc.) et à exploiter cette application sur l'environnement de production. Participation au développement de cette application hautement asynchrone et distribuée (Kafka, ElasticSearch) : afin de gérer le volume de données conséquent (Cassandra) que représentaient les communications du SI avec les compteurs (plusieurs messages par heure par compteur, pour plusieurs centaines de milliers de compteurs)."
+   content: "Le projet consistait à développer une application permettant la supervision de l'installation et du fonctionnement de compteurs (relevés à distance, télédistribution de softwares sur les compteurs, détection d'anomalies, etc.) et à exploiter cette application sur l'environnement de production. Participation au développement de cette application hautement asynchrone et distribuée (Kafka, ElasticSearch) : afin de gérer le volume de données conséquent (Cassandra) que représentaient les communications du SI avec les compteurs (plusieurs messages par heure par compteur, pour plusieurs centaines de milliers de compteurs). Développement d'interfaces utilisateur en AngularJS (Angular 1)"
    techs:
     - tech: Java 8 | Spring Boot / microservices
     - tech: Apache Kafka | Cassandra | ElasticSearch | Spark (Scala).
@@ -75,7 +86,7 @@ career:
    location: Lyon
    dates: Mars 2017 – Juin 2017 | 4 mois
    summary: Projet Agence France Locale - Application web permettant la gestion du financement des collectivités locales.
-   content: "Développement de fonctionnalités de CRM."
+   content: "Développement de fonctionnalités de CRM, composants graphiques et pages web en JS et framework EmberJS."
    techs:
     - tech: Java 8 | Spring Boot (REST, Security, Data) | Maven
     - tech: Javascript | EmberJS
@@ -86,7 +97,7 @@ career:
    location: Lyon
    dates: Avril 2016 – Mars 2017 | 1 an
    summary: Projet de développement d'une application de géolocalisation au forfait pour le compte de GrDF.
-   content: "Développement d'une application permettant la planification et le suivi des tournées de coupure et de remise en gaz. Basée sur un fond de carte Google Maps, et s'appuyant sur ses APIs, elle permettait de définir des zones de coupure de gaz et de gérer leur statut. J'ai développé la fonctionnalité de traçage, découpage et fusion des zones, ainsi que les web services REST de l'application."
+   content: "Développement d'une application permettant la planification et le suivi des tournées de coupure et de remise en gaz. Basée sur un fond de carte Google Maps, et s'appuyant sur ses APIs, elle permettait de définir des zones de coupure de gaz et de gérer leur statut. J'ai développé la fonctionnalité de traçage, découpage et fusion des zones, ainsi que les web services REST de l'application. Développement de composants web et interfaces en JS vanilla."
    techs:
     - tech: Java 8 | Spring Boot (Web Services REST)
     - tech: Javascript | Google maps API
