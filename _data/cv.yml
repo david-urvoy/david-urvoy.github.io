@@ -22,8 +22,8 @@ career:
    techs:
     - tech: Kotlin
     - tech: Spring Boot | Spring web
+    - tech: Typescript | React | Redux
     - tech: Docker | Google Cloud Platform | Kubernetes
-    - tech: React | Redux
  - position: Développeur Web
    company: Freelance - Association
    location: Lyon
