@@ -40,7 +40,7 @@ career:
    location: Lyon
    dates: Novembre 2019 – Decembre 2020
    summary: Conception et implémentation d'une architecture microservices.
-   content: "Conception du socle technique de l'application sous forme de starters (modules) facilitant l'implémentation d'une architecture hexagonale (DDD) : centralisation des dépendances et définition des abstractions par module (rest-controller, amqp-producer, amqp-consumer, jpa-repository, etc.). Mise en place de bonnes pratiques transverses (BDD pour l'écriture des user stories et tests d'acceptance, SCRUM) et de développement (DDD, TDD). Implémentation de features (module de retry pour les appels au service historique du SI)."
+   content: "Développement d'une application en microservices pour les besoins de l'E-Commerce. Architecture distribuée et fortement événementielle, basée sur un système de messaging (events et commandes) avec RabbitMQ). Conception du socle technique de l'application sous forme de starters (modules) facilitant l'implémentation d'une architecture hexagonale (DDD) : centralisation des dépendances et définition des abstractions par module (rest-controller, amqp-producer, amqp-consumer, jpa-repository, etc.). Mise en place de bonnes pratiques transverses (BDD pour l'écriture des user stories et tests d'acceptance, SCRUM) et de développement (DDD, TDD). Implémentation de features (module de retry pour les appels au service historique du SI)."
    techs:
     - tech: Kotlin | Java 8 | Spring Boot (Data, Web, Security)
     - tech: microservices | REST API | RabbitMQ.
