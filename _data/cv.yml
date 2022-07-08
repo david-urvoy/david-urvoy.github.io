@@ -18,7 +18,7 @@ career:
    location: Lyon
    dates: Septembre 2021 - Juin 2022
    summary: Développement d'un produit d'analyse sémantique en microservices.
-   content: "Développement de microservices pour une plateforme d'analyse sémantique à destination d'éditeurs de presse et d'acteurs de l'e-commerce. Développement d'un socle technique pour les microservice existants (librairie modulaire avec des starters pour REST API et client, producers et subscribers de messages pour une architecture événementielle, modules de tests à différents niveaux, etc.), d'un module de parsing, débalisage et balisage HTML pour permettre l'analyse sémantique de pages web. Projet Kubernetes hébergé dans le cloud GCP. Maintenance évolutive et corrective d'une application éditoriale dans le domaine juridique. Développement de composants front en React/Redux, ainsi qu'une librairie propriétaire. Services REST en Kotlin et Spring"
+   content: "Développement de microservices pour une plateforme d'analyse sémantique à destination d'éditeurs de presse et d'acteurs de l'e-commerce. Développement d'un socle technique pour les microservice existants (librairie modulaire avec des starters pour REST API et client, producers et subscribers de messages pour une architecture événementielle, modules de tests à différents niveaux, etc.), d'un module de parsing, débalisage et balisage HTML pour permettre l'analyse sémantique de pages web. Projet Kubernetes hébergé dans le cloud GCP. Maintenance évolutive et corrective d'une application éditoriale dans le domaine juridique. Développement, maintenance et évolution de divers composants front en React et Redux, ainsi qu'une librairie propriétaire. Services REST en Kotlin et Spring"
    techs:
     - tech: Kotlin
     - tech: Spring Boot | Spring web
