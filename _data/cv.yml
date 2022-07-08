@@ -29,7 +29,7 @@ career:
    location: Lyon
    dates: Janvier 2021 - Juin 2021
    summary: Développement d'un website & divers outils informatiques (wiki, services) pour une association.
-   content: "Développement et hébergement de divers outils web sur GCP pour une association. Développement d'un site web en React, NextJS et Docusaurus 2 (Framework basé sur React + markdown). Gestion du nom de domaine, mise en place de déploiements automatisés (Github Actions) et hébergement sur le cloud GCP."
+   content: "Développement et hébergement de divers outils web (site web, services REST, wiki) sur GCP pour les besoins d'une association. Développement d'un site web en React, NextJS et Docusaurus 2 (Framework basé sur React + markdown) (autoformation). Aquisition du nom de domaine, mise en place de déploiements automatisés (Github Actions) et hébergement sur le cloud GCP."
    techs:
     - tech: Typescript | Javascript
     - tech: React | NextJS | Docusaurus 2.
