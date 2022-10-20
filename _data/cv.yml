@@ -35,7 +35,7 @@ career:
     - tech: Typescript | Javascript
     - tech: React | NextJS | Docusaurus 2.
     - tech: ExpressJS
-    - tech: Docker | Google Cloud Platform | Github | Github Actions.
+    - tech: Docker | Vercel | Google Cloud Platform | Github | Github Actions.
  - position: Architecte logiciel - Lead Dev (freelance)
    company: Descours & Cabaud
    location: Lyon
@@ -162,10 +162,10 @@ sideProjects:
     description: Mise en place d'un site web pour un groupe associatif.
     link: https://brain-academy.fr
     type: website
-    langs: Typescript | React | JSX
+    langs: Typescript | React | JSX | Next.js | Vercel
   - name: Wiki association
     description: Construction d'un wiki pour un groupe associatif.
-    link: https://brain-academy.fr/wiki/botc
+    link: https://brain-academy.github.io/botc-wiki/
     type: wiki
     langs: Typescript | React | JSX | MDX | Docusaurus 2
   - name: Docker presentation
