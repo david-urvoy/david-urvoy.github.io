@@ -20,7 +20,7 @@ career:
    location: Lyon
    dates: Décembre 2022 - Décembre 2023
    summary: Développement d'une application Web permettant la configuration et le versioning des machines Carrier (climatiseurs, Rooftops, Fancoils).
-   content: "Développement fullstack de l'application Matrix, à destination des équipes R&D, du marketing et de la vente. L'application permet la gestion de la configuration de l'ensemble des machines produites par Carrier, le versioning des propriétés des machines, ainsi que leurs options et les incompatibilités. Projet hébergé sur AWS, dont le backend est servi par Lambdas, le front par cloudfront et la BDD sur amazon RDS"
+   content: "Développement fullstack de l'application Matrix, à destination des équipes R&D, du marketing et de la vente. L'application permet la gestion de la configuration de l'ensemble des machines produites par Carrier, le versioning des propriétés des machines, ainsi que leurs options et les incompatibilités. Matrix est développé en React et Typescript, avec usage intensif de GraphQL et Tanstack (cache) et des standards HTML 5 et CSS 3. Le backend (CRUD) est intégralement généré à partir d'un schéma défini via Prisma et servi avec Apollo GraphQL. Projet hébergé sur AWS, dont le backend est servi par Lambdas, le front par cloudfront et la BDD sur amazon RDS"
    techs:
     - tech: Typescript
     - tech: React | GraphQL | Tanstack (React Query) | Zustand | Vite
