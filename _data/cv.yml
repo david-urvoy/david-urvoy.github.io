@@ -144,20 +144,18 @@ technicalSkills:
   #list: 
   backend:
    - name: Node.js
-     level: 60
-   - name: JavaEE
      level: 80
-   - name: Kotlin
-     level: 75
-   - name: Spring
+   - name: Express.js
+     level: 90
+   - name: Next.js
      level: 70
   frontend:
    - name: React
-     level: 85
-   - name: EcmaScript
-     level: 85
-   - name: TypeScript
      level: 90
+   - name: EcmaScript
+     level: 95
+   - name: TypeScript
+     level: 95
   other:
    - name: Docker
      level: 85
