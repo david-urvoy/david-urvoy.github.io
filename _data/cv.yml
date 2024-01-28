@@ -64,7 +64,7 @@ career:
    location: Ecully
    dates: Janvier 2019 – Septembre 2019 | 9 mois
    summary: Projet ISI - Développement d'une application en micro-services permettant la déclaration et le suivi de sinistres (sociétaires), leur prise en charge par les gestionnaires ainsi que le paramétrage manager.
-   content: "Développement du module de paramétrage et de supervision des gestionnaires d'assurance (interface de pilotage pour les managers et de synthèse pour les gestionnaires d'assurance). Tâches effectuées : Structuration de l'application en micro-services, implémentation de la gestion des habilitations (sécurité), développement d'une librairie de composants Angular, ainsi que développement des interfaces utilisateur."
+   content: "Développement du module de paramétrage et de supervision des gestionnaires d'assurance (interface de pilotage pour les managers et de synthèse pour les gestionnaires d'assurance). Tâches effectuées : Structuration de l'application en micro-services, développement d'une librairie de composants Angular, ainsi que des interfaces utilisateur, implémentation de la gestion des habilitations (sécurité)."
    techs:
     - tech: Angular 7 | TypeScript | Javascript
     - tech: Architecture microservices | DDD
@@ -76,7 +76,7 @@ career:
    location: Lyon
    dates: Juin 2018 – Décembre 2018 | 7 mois
    summary: Projet ISup - supervision de compteurs intelligents destinés aux professionnels.
-   content: "Développement de services et d'une application permettant la supervision de l'installation et du fonctionnement de compteurs (relevés à distance, télédistribution de softwares sur les compteurs, détection d'anomalies, etc.). Exploitation de l'application sur l'environnement de production. Développement de divers services (REST, événementiels) pour une application hautement asynchrone et distribuée (Kafka, ElasticSearch) : afin de gérer le volume de données conséquent (Cassandra) que représentaient les communications du SI avec les compteurs (plusieurs messages par heure par compteur, pour plusieurs centaines de milliers de compteurs). Développement d'interfaces utilisateur en AngularJS (Angular 1). Exploitation des services et de l'application sur divers environnements, de test, intégration, jusqu'en production (Docker, Ansible, HashiCorp Vault)."
+   content: "Développement d'une application web et de services REST permettant la supervision de l'installation et du fonctionnement de compteurs (relevés à distance, télédistribution de softwares sur les compteurs, détection d'anomalies, etc.). Développement d'interfaces utilisateur en Angular. Exploitation de l'application sur l'environnement de production. Développement de divers services (REST, événementiels) pour une application hautement asynchrone et distribuée (Kafka, ElasticSearch) : afin de gérer le volume de données conséquent (Cassandra) que représentaient les communications du SI avec les compteurs (plusieurs messages par heure par compteur, pour plusieurs centaines de milliers de compteurs). Exploitation des services et de l'application sur divers environnements, de test, intégration, jusqu'en production (Docker, Ansible, HashiCorp Vault)."
    techs:
     - tech: Javascript | AngularJS
     - tech: Architecture microservices
