@@ -34,9 +34,8 @@ career:
    summary: Développement d'un produit d'analyse sémantique en microservices.
    content: "Développement de microservices pour une plateforme d'analyse sémantique à destination d'éditeurs de presse et d'acteurs de l'e-commerce. Développement d'un socle technique pour les microservice existants (librairie modulaire avec des starters pour REST API et client, producers et subscribers de messages pour une architecture événementielle, modules de tests à différents niveaux, etc.), d'un module de parsing, débalisage et balisage HTML pour permettre l'analyse sémantique de pages web. Projet Kubernetes hébergé dans le cloud GCP. Maintenance évolutive et corrective d'une application éditoriale dans le domaine juridique. Développement, maintenance et évolution de divers composants front en React et Redux, ainsi qu'une librairie propriétaire. Services REST en Kotlin et Spring"
    techs:
-    - tech: Kotlin
-    - tech: Spring Boot | Spring web
     - tech: Typescript | React | Redux
+    - tech: Kotlin | Spring Boot | Spring web
     - tech: Docker | Google Cloud Platform | Kubernetes
  - position: Développeur Web
    company: Freelance - Association
@@ -56,9 +55,9 @@ career:
    summary: Conception et implémentation d'une architecture microservices.
    content: "Développement d'une application en microservices pour les besoins de l'E-Commerce. Architecture distribuée et événementielle, basée sur un système de messaging (events et commandes) avec RabbitMQ. Conception du socle technique de l'application sous forme de starters (modules) facilitant l'implémentation d'une architecture hexagonale (DDD) : centralisation des dépendances et définition des abstractions par module (rest-controller, amqp-producer, amqp-consumer, jpa-repository, etc.). Mise en place de bonnes pratiques transverses (BDD pour l'écriture des user stories et tests d'acceptance, SCRUM) et de développement (DDD, TDD). Implémentation de features (module de retry pour les appels au service historique du SI, ainsi que divers services métier). Mise en place de pratiques TDD afin d'améliorer la qualité technique et la fiabilité du produit. Les tests automatisés variaient en granularité, du test unitaire au test d'acceptance. Accompagnement technique d'une équipe de 5 développeurs, code review, animation de coding dojo (formation Kotlin, Java 8 lambdas et streams)."
    techs:
-    - tech: Kotlin | Java 8 | Spring Boot (Data, Web, Security)
-    - tech: microservices | REST API | RabbitMQ.
+    - tech: microservices | REST API | RabbitMQ
     - tech: DDD (architecture hexagonale) | BDD (acceptance testing - cucumber) | TDD
+    - tech: Kotlin | Java 8 | Spring Boot (Data, Web, Security)
     - tech: Docker | Kubernetes.
  - position: Ingénieur d'études - Développeur (prestataire)
    company: Groupama G2S
@@ -67,8 +66,9 @@ career:
    summary: Projet ISI - Développement d'une application en micro-services permettant la déclaration et le suivi de sinistres (sociétaires), leur prise en charge par les gestionnaires ainsi que le paramétrage manager.
    content: "Développement du module de paramétrage et de supervision des gestionnaires d'assurance (interface de pilotage pour les managers et de synthèse pour les gestionnaires d'assurance). Tâches effectuées : Structuration de l'application en micro-services, implémentation de la gestion des habilitations (sécurité), développement d'une librairie de composants Angular, ainsi que développement des interfaces utilisateur."
    techs:
-    - tech: Java 8 | Spring Boot (Data, Web, Security) | microservices | REST API
-    - tech: Angular 7 | TypeScript | Javascript.
+    - tech: Angular 7 | TypeScript | Javascript
+    - tech: Architecture microservices | DDD
+    - tech: Java 8 | Spring Boot (Data, Web, Security) | REST API
    projs:
     - proj: ~20 développeurs. Méthode Agile / SCRUM.
  - position: Ingénieur d'études - Développeur (prestataire)
@@ -78,10 +78,11 @@ career:
    summary: Projet ISup - supervision de compteurs intelligents destinés aux professionnels.
    content: "Développement de services et d'une application permettant la supervision de l'installation et du fonctionnement de compteurs (relevés à distance, télédistribution de softwares sur les compteurs, détection d'anomalies, etc.). Exploitation de l'application sur l'environnement de production. Développement de divers services (REST, événementiels) pour une application hautement asynchrone et distribuée (Kafka, ElasticSearch) : afin de gérer le volume de données conséquent (Cassandra) que représentaient les communications du SI avec les compteurs (plusieurs messages par heure par compteur, pour plusieurs centaines de milliers de compteurs). Développement d'interfaces utilisateur en AngularJS (Angular 1). Exploitation des services et de l'application sur divers environnements, de test, intégration, jusqu'en production (Docker, Ansible, HashiCorp Vault)."
    techs:
-    - tech: Java 8 | Spring Boot / microservices
-    - tech: Apache Kafka | Cassandra | ElasticSearch | Spark (Scala).
+    - tech: Javascript | AngularJS
+    - tech: Architecture microservices
+    - tech: Java 8 | Scala | Spring Boot
+    - tech: Apache Kafka | Cassandra | ElasticSearch | Spark
     - tech: Docker | Stack ELK (ElasticSearch, Logstash, Kibana) | Git
-    - tech: AngularJS
    projs:
     - proj: ~6 développeurs. Méthode Agile / Kanban.
  - position: Ingénieur d'études - Développeur
@@ -102,8 +103,8 @@ career:
    summary: Projet Agence France Locale - Application web permettant la gestion du financement des collectivités locales.
    content: "Développement de fonctionnalités de CRM, composants graphiques et pages web en JS et framework EmberJS."
    techs:
-    - tech: Java 8 | Spring Boot (REST, Security, Data) | Maven
     - tech: Javascript | EmberJS
+    - tech: Java 8 | Spring Boot (REST, Security, Data) | Maven
    projs:
     - proj: Equipe de 4 développeurs
  - position: Développeur fullstack
@@ -113,8 +114,8 @@ career:
    summary: Projet de développement d'une application de géolocalisation au forfait pour le compte de GrDF.
    content: "Développement d'une application permettant la planification et le suivi des tournées de coupure et de remise en gaz. Basée sur un fond de carte Google Maps, et s'appuyant sur ses APIs, elle permettait de définir des zones de coupure de gaz et de gérer leur statut. J'ai développé la fonctionnalité de traçage, découpage et fusion des zones, ainsi que les web services REST de l'application. Développement de composants web et interfaces en JS vanilla."
    techs:
-    - tech: Java 8 | Spring Boot (Web Services REST)
     - tech: Javascript | Google maps API
+    - tech: Java 8 | Spring Boot (Web Services REST)
    projs:
     - proj: Equipe de 4 développeurs
  - position: Ingénieur d'études - Développeur (prestataire)
