@@ -148,7 +148,7 @@ technicalSkills:
      level: 80
    - name: Express.js
      level: 90
-   - name: Next.js
+   - name: Apollo GraphQL
      level: 70
   frontend:
    - name: React
@@ -157,6 +157,8 @@ technicalSkills:
      level: 95
    - name: TypeScript
      level: 95
+   - name: Next.js
+     level: 70
   other:
    - name: Docker
      level: 85
