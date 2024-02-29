@@ -152,8 +152,6 @@ technicalSkills:
      level: 95
    - name: Three.js
      level: 80
-   - name: React Three Fiber
-     level: 80
    - name: Next.js
      level: 70
   backend:
