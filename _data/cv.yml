@@ -143,13 +143,6 @@ career:
 
 technicalSkills:
   #list: 
-  backend:
-   - name: Node.js
-     level: 80
-   - name: Express.js
-     level: 90
-   - name: Apollo GraphQL
-     level: 70
   frontend:
    - name: React
      level: 90
@@ -157,7 +150,18 @@ technicalSkills:
      level: 95
    - name: TypeScript
      level: 95
+   - name: Three.js
+     level: 80
+   - name: React Three Fiber
+     level: 80
    - name: Next.js
+     level: 70
+  backend:
+   - name: Node.js
+     level: 80
+   - name: Express.js
+     level: 90
+   - name: Apollo GraphQL
      level: 70
   other:
    - name: Docker
