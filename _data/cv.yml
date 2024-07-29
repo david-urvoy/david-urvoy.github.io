@@ -5,7 +5,7 @@ projectUrl: jekyl-cv-crafter
 person:
   name: David Urvoy
   depiction: me.jpeg
-  profession: Architecte technique & développeur fullstack
+  profession: Expert technique & développeur fullstack (React.js & Node.js)
   location: Lyon
   phone: 0782450298
   email: pro@david.urvoy.email
@@ -20,7 +20,7 @@ career:
    location: Lyon
    dates: Décembre 2022 - Décembre 2023
    summary: Développement d'une application Web permettant la configuration et le versioning des machines Carrier (climatiseurs, Rooftops, Fancoils).
-   content: "Développement fullstack de l'application Matrix, à destination des équipes R&D, du marketing et de la vente. L'application permet la gestion de la configuration de l'ensemble des machines produites par Carrier, le versioning des propriétés des machines, ainsi que leurs options et les incompatibilités. Matrix est développé en React et Typescript, avec usage intensif de GraphQL et Tanstack (cache) et des standards HTML 5 et CSS 3. Le backend (CRUD) est intégralement généré à partir d'un schéma défini via Prisma et servi avec Apollo GraphQL. Projet hébergé sur AWS, dont le backend est servi par Lambdas, le front par cloudfront et la BDD sur amazon RDS"
+   content: "Développement fullstack de l'application Matrix, à destination des équipes R&D, du marketing et de la vente. L'application permet la gestion de la configuration de l'ensemble des machines produites par Carrier, le versioning des propriétés des machines, ainsi que leurs options et les incompatibilités. Matrix est développé en React et Typescript, avec usage intensif de GraphQL et Tanstack (cache) et des standards HTML 5 et CSS 3. Le backend (CRUD) est intégralement généré à partir d'un schéma défini via Prisma et servi avec Apollo GraphQL. Projet hébergé sur AWS, dont le backend est servi par Lambdas, le front par cloudfront et la BDD sur amazon RDS."
    techs:
     - tech: Typescript
     - tech: React | GraphQL | Tanstack (React Query) | Zustand | Vite
@@ -32,7 +32,7 @@ career:
    location: Lyon
    dates: Septembre 2021 - Juin 2022
    summary: Développement d'un produit d'analyse sémantique en microservices.
-   content: "Développement de microservices pour une plateforme d'analyse sémantique à destination d'éditeurs de presse et d'acteurs de l'e-commerce. Développement d'un socle technique pour les microservice existants (librairie modulaire avec des starters pour REST API et client, producers et subscribers de messages pour une architecture événementielle, modules de tests à différents niveaux, etc.), d'un module de parsing, débalisage et balisage HTML pour permettre l'analyse sémantique de pages web. Projet Kubernetes hébergé dans le cloud GCP. Maintenance évolutive et corrective d'une application éditoriale dans le domaine juridique. Développement, maintenance et évolution de divers composants front en React et Redux, ainsi qu'une librairie propriétaire. Services REST en Kotlin et Spring"
+   content: "Développement de microservices pour une plateforme d'analyse sémantique à destination d'éditeurs de presse et d'acteurs de l'e-commerce. Développement d'un socle technique pour les microservice existants (librairie modulaire avec des starters pour REST API et client, producers et subscribers de messages pour une architecture événementielle, modules de tests à différents niveaux, etc.), d'un module de parsing, débalisage et balisage HTML pour permettre l'analyse sémantique de pages web. Projet Kubernetes hébergé dans le cloud GCP. Maintenance évolutive et corrective d'une application éditoriale dans le domaine juridique. Développement, maintenance et évolution de divers composants front en React et Redux, ainsi qu'une librairie propriétaire. Services REST en Kotlin et Spring."
    techs:
     - tech: Typescript | React | Redux
     - tech: Kotlin | Spring Boot | Spring web
