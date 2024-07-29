@@ -41,13 +41,13 @@ career:
    company: Freelance - Association
    location: Lyon
    dates: Janvier 2021 - Juin 2021
-   summary: Développement d'un website & divers outils informatiques (wiki, services) pour une association.
+   summary: Développement d'un site web & divers outils informatiques (wiki, services) pour une association.
    content: "Développement et hébergement de divers outils web (site web, services REST, wiki) sur GCP pour les besoins d'une association. Développement d'un site web en React, NextJS et Docusaurus 2 (Framework basé sur React + markdown) (autoformation). Aquisition du nom de domaine, mise en place de déploiements automatisés (Github Actions) et hébergement sur le cloud GCP."
    techs:
     - tech: Typescript | Javascript
-    - tech: React | NextJS | Docusaurus 2.
+    - tech: React | NextJS | Docusaurus 2
     - tech: ExpressJS
-    - tech: Docker | Vercel | Google Cloud Platform | Github | Github Actions.
+    - tech: Docker | Vercel | Google Cloud Platform | Github | Github Actions
  - position: Architecte logiciel - Lead Dev (freelance)
    company: Descours & Cabaud
    location: Lyon
@@ -58,7 +58,7 @@ career:
     - tech: microservices | REST API | RabbitMQ
     - tech: DDD (architecture hexagonale) | BDD (acceptance testing - cucumber) | TDD
     - tech: Kotlin | Java 8 | Spring Boot (Data, Web, Security)
-    - tech: Docker | Kubernetes.
+    - tech: Docker | Kubernetes
  - position: Ingénieur d'études - Développeur (prestataire)
    company: Groupama G2S
    location: Ecully
@@ -151,12 +151,12 @@ technicalSkills:
    - name: TypeScript
      level: 95
    - name: Three.js
-     level: 80
+     level: 50
    - name: Next.js
      level: 70
   backend:
    - name: Node.js
-     level: 80
+     level: 50
    - name: Express.js
      level: 90
    - name: Apollo GraphQL
@@ -164,20 +164,16 @@ technicalSkills:
   other:
    - name: Docker
      level: 85
-   - name: Rust
-     level: 30
-   - name: Python
-     level: 40
    - name: Git
      level: 90
-   - name: Google Compute Engine
+   - name: Cloud (GCP, AWS)
      level: 40
 
 sideProjects:
   - name: (WIP) Site web associatif
     description: Mise en place d'un site web pour un groupe associatif.
     link: https://brain-academy.fr
-    type: website
+    type: site web
     langs: Typescript | React | JSX | Next.js | Vercel
   - name: Wiki association
     description: Construction d'un wiki pour un groupe associatif.
