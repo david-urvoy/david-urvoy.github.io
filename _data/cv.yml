@@ -15,6 +15,22 @@ person:
 
 career:
 
+ - position: Lead développer Web Front
+   company: Descours & Cabaud
+   location: Lyon
+   dates: Septembre 2024 - Aujourd'hui
+   summary: Lead dev Front pour Descours & Cabaud, sur le projet de refonte de leur site e-commerce multi-marques (Prolians - Hydralians - Dexis).
+   content: "Le projet consiste en une refonte du site existant (Magento 2) vers un nouveau design et technologies web React.js, Next.js 15 (app router), Tailwind et Apollo GraphQL notamment, et orienté vers une optimisation des performances.
+
+Projet divisé en 3 Lots, je suis Lead front de la squad Client (~8 développeurs) (authentification, administration des comptes, tableaux de bords, historiques, configuration) et travaille avec 3 développeurs front.
+Ma prestation implique notamment :
+◦ L'expertise sur des sujets techniques tels que l'implémentation du système d'authentification (OAuth 2.0, JWT), l'optimisation des requêtes GraphQL (client / serveur), le caching des pages.
+◦ L'accompagnement des développeurs (formation, revues de code, échanges techniques).
+◦ L'organisation technique de la squad (organisation de backlog refinements, retrospectives).
+"
+   techs:
+    - tech: Typescript
+    - tech: React | Next.js | GraphQL | Apollo GraphQL | Jotai | TailwindCSS
  - position: Développeur Web
    company: Carrier
    location: Lyon
