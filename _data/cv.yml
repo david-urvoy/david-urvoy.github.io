@@ -135,27 +135,27 @@ technicalSkills:
   #list: 
   frontend:
    - name: React
-     level: 90
+     level: 100
    - name: EcmaScript
      level: 95
    - name: TypeScript
      level: 95
    - name: Three.js
-     level: 50
+     level: 60
    - name: Next.js
-     level: 70
+     level: 85
   backend:
    - name: Node.js
      level: 50
    - name: Express.js
      level: 90
    - name: Apollo GraphQL
-     level: 70
+     level: 80
   other:
    - name: Docker
      level: 85
    - name: Git
-     level: 90
+     level: 100
    - name: Cloud (GCP, AWS)
      level: 40
 
